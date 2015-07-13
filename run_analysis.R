@@ -42,6 +42,8 @@ cleannames <- function(f) {
     f <- gsub("tGravity", "07", f)
     f <- gsub("fBody",    "16", f)
     f <- gsub("fGravity", "17", f)
+    f <- gsub("Body",    "6", f)
+    f <- gsub("fGravity", "7", f)
 
     f <- gsub("Acc",  "2", f)
     f <- gsub("Gyro", "3", f)
