@@ -49,36 +49,24 @@
 * Frequency domain signal: Body Linear Acceleration X-direction (standard deviation)
 * Frequency domain signal: Body Linear Acceleration Y-direction (standard deviation)
 * Frequency domain signal: Body Linear Acceleration Z-direction (standard deviation)
-* Frequency domain signal: Body Linear Acceleration  meanFreq() X-direction* 
-* Frequency domain signal: Body Linear Acceleration  meanFreq() Y-direction* 
-* Frequency domain signal: Body Linear Acceleration  meanFreq() Z-direction* 
 * Frequency domain signal: Body Linear Acceleration Jerk X-direction (mean)
 * Frequency domain signal: Body Linear Acceleration Jerk Y-direction (mean)
 * Frequency domain signal: Body Linear Acceleration Jerk Z-direction (mean)
 * Frequency domain signal: Body Linear Acceleration Jerk X-direction (standard deviation)
 * Frequency domain signal: Body Linear Acceleration Jerk Y-direction (standard deviation)
 * Frequency domain signal: Body Linear Acceleration Jerk Z-direction (standard deviation)
-* Frequency domain signal: Body Linear Acceleration Jerk  meanFreq() X-direction* 
-* Frequency domain signal: Body Linear Acceleration Jerk  meanFreq() Y-direction* 
-* Frequency domain signal: Body Linear Acceleration Jerk  meanFreq() Z-direction* 
 * Frequency domain signal: Body Angular Velocity X-direction (mean)
 * Frequency domain signal: Body Angular Velocity Y-direction (mean)
 * Frequency domain signal: Body Angular Velocity Z-direction (mean)
 * Frequency domain signal: Body Angular Velocity X-direction (standard deviation)
 * Frequency domain signal: Body Angular Velocity Y-direction (standard deviation)
 * Frequency domain signal: Body Angular Velocity Z-direction (standard deviation)
-* Frequency domain signal: Body Angular Velocity  meanFreq() X-direction* 
-* Frequency domain signal: Body Angular Velocity  meanFreq() Y-direction* 
-* Frequency domain signal: Body Angular Velocity  meanFreq() Z-direction* 
 * Frequency domain signal: Body Linear Acceleration Magnitude (mean)
 * Frequency domain signal: Body Linear Acceleration Magnitude (standard deviation)
-* Frequency domain signal: Body Linear Acceleration Magnitude  meanFreq()
 * Frequency domain signal: BodyBody Linear Acceleration Jerk Magnitude (mean)
 * Frequency domain signal: BodyBody Linear Acceleration Jerk Magnitude (standard deviation)
-* Frequency domain signal: BodyBody Linear Acceleration Jerk Magnitude  meanFreq()
 * Frequency domain signal: BodyBody Angular Velocity Magnitude (mean)
 * Frequency domain signal: BodyBody Angular Velocity Magnitude (standard deviation)
-* Frequency domain signal: BodyBody Angular Velocity Magnitude  meanFreq()
 * Frequency domain signal: BodyBody Angular Velocity Jerk Magnitude (mean)
 * Frequency domain signal: BodyBody Angular Velocity Jerk Magnitude (standard deviation)
-* Frequency domain signal: BodyBody Angular Velocity Jerk Magnitude  meanFreq()
+
