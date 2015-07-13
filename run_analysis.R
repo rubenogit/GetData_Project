@@ -23,7 +23,7 @@ rm(feature_file, feature_data)
 
 #vector of the features that contain mean or std
 #I don't include the angles as these are not estimate variables of the feature vector
-selected_features <- grep("mean|std", features)
+selected_features <- grep("mean\\(\\)|std\\(\\)", features)
 
 #function to clean the names of the selected features
 cleannames <- function(f) {
@@ -147,4 +147,4 @@ rm(test_x, train_x, col_order)
 #mean per Activity and Subject
 mean_x <- aggregate(x[,feature_names], list(x[,"Activity"],x[,"Subject"]),mean)
 colnames(mean_x)[1:2] <- c("Activity","Subject")
-write.table(mean_x, "UCI mean.txt", row.name=FALSE) 
+write.table(mean_x, "ucimean.txt", row.name=FALSE) 
